@@ -1,0 +1,75 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "id": 2,
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+        "answer": "Oxygen"
+      },
+      {
+        "id": 3,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "id": 4,
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+          "William Shakespeare",
+          "Mark Twain",
+          "Jane Austen",
+          "Charles Dickens"
+        ],
+        "answer": "William Shakespeare"
+      },
+      {
+        "id": 5,
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8"
+      },
+      {
+        "id": 6,
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Great White Shark", "Giraffe"],
+        "answer": "Blue Whale"
+      },
+      {
+        "id": 7,
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": ["Asia", "Africa", "South America", "Australia"],
+        "answer": "Africa"
+      },
+      {
+        "id": 8,
+        "question": "Who painted the 'Mona Lisa'?",
+        "options": [
+          "Vincent van Gogh",
+          "Leonardo da Vinci",
+          "Pablo Picasso",
+          "Claude Monet"
+        ],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "id": 9,
+        "question": "What is the chemical formula of water?",
+        "options": ["H2O", "CO2", "O2", "CH4"],
+        "answer": "H2O"
+      },
+      {
+        "id": 10,
+        "question": "Which year did World War II end?",
+        "options": ["1942", "1944", "1945", "1946"],
+        "answer": "1945"
+      }
+    ]
+  }
+  
